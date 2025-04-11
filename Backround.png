@@ -1,0 +1,118 @@
+# Lirik-aku-dah-lupa
+Lagu yang di buat oleh MikkyZia
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Lirik Lagu Aku Dah Lupa - MikkyZia & F4dli</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-image: url('Backround.png'); /* Ganti nama file sesuai dengan gambar kamu */
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      color: #333;
+      padding: 20px;
+      line-height: 1.6;
+    }
+    h1 {
+      text-align: center;
+      color: #2c3e50;
+    }
+    .lyrics {
+      max-width: 700px;
+      margin: auto;
+      background: rgba(255, 255, 255, 0.85); /* Biar teks tetap terbaca */
+      padding: 25px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+    .lyrics p {
+      margin-bottom: 1em;
+    }
+    .source {
+      text-align: center;
+      margin-top: 20px;
+      font-size: 0.9em;
+      color: #777;
+    }
+    .source a {
+      color: #3498db;
+      text-decoration: none;
+    }
+    .source a:hover {
+      text-decoration: underline;
+    }
+    .zerto-banner {
+      text-align: center;
+      background: linear-gradient(135deg, #ff4e50, #f9d423);
+      color: white;
+      font-size: 40px;
+      font-weight: bold;
+      padding: 20px;
+      margin-bottom: 30px;
+      border-radius: 12px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
+  </style>
+</head>
+<body>
+  <div class="zerto-banner">ZERTO</div>
+  <h1>Lirik Lagu Aku Dah Lupa</h1>
+  <div class="lyrics">
+    <p>Aku dah lupa tentangmu<br>
+    Bayangmu hilang dalam waktu<br>
+    Janji dulu dah berlalu<br>
+    Kini aku bebas, aku mampu</p>
+
+    <p>Dulu sakit, sekarang lega<br>
+    Cerita lama, aku dah reda<br>
+    Tak nak pusing, tak nak tanya<br>
+    Aku kuat tanpa drama</p>
+
+    <p>Dulu sakit, sekarang lega<br>
+    Cerita lama, aku dah reda<br>
+    Tak nak pusing, tak nak tanya<br>
+    Aku kuat tanpa drama</p>
+
+    <p>Aku dah lupa, tak ingat lagi<br>
+    Nama kau pun hilang dari hati<br>
+    Aku move on, hidup sendiri<br>
+    Tak perlu kau, aku happy</p>
+
+    <p>Aku dah lupa, tak ingat lagi<br>
+    Nama kau pun hilang dari hati<br>
+    Aku move on, hidup sendiri<br>
+    Tak perlu kau, aku happy</p>
+
+    <p>Masa lalu penuh dengan luka<br>
+    Kisah kita hanya sandiwara<br>
+    Kini aku bangkit, aku cari bahagia<br>
+    Selamat tinggal, aku bebas akhirnya</p>
+
+    <p>Lepas semua, ku senyum saja<br>
+    Hari cerah tanpa derita<br>
+    Aku dah tahu, siapa aku<br>
+    Kau dah jauh, ku tak perlu</p>
+
+    <p>Aku dah lupa, tak ingat lagi<br>
+    Nama kau pun hilang dari hati<br>
+    Aku move on, hidup sendiri<br>
+    Tak perlu kau, aku happy</p>
+
+    <p>Aku dah lupa, tak ingat lagi<br>
+    Nama kau pun hilang dari hati<br>
+    Aku move on, hidup sendiri<br>
+    Tak perlu kau, aku happy</p>
+
+    <p>Aku dah lupa, tak ingat lagi<br>
+    Nama kau pun hilang dari hati<br>
+    Aku move on, hidup sendiri...</p>|
+  </div>
+  <div class="source">
+    Sumber lirik: <a href="https://www.insertlive.com/film-dan-musik/20250228153433-197-360463/lirik-lagu-aku-dah-lupa--mikky-feat-zia-yang-viral-di-tiktok" target="_blank">InsertLive</a>
+  </div>
+</body>
+</html>
